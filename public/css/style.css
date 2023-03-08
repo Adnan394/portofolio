@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@500;600;700&family=Poppins:wght@300;400;500;600&display=swap");
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-putih {
+    background-color: #f7f7f7;
+}
+.bg-kuning {
+    background-color: #febd2f;
+}
+.bg-coklat {
+    background-color: #68615f;
+}
+.bg-abu {
+    background-color: #c4bfbd;
+}
+.bg-nav {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.text-coklat {
+    color: #68615f;
+}
+.text-kuning {
+    color: #febd2f;
+}
+
+.fs-heading {
+    font-size: 72px;
+}
+.fw5 {
+    font-weight: 500;
+}
+.fw4 {
+    font-weight: 400;
+}
+.fw6 {
+    font-weight: 600;
+}
+
+.aktif {
+    color: #febd2f;
+}
+
+.underline {
+    border-bottom: 4px solid #febd2f;
+}
+
+.nav-link {
+    transition: 0.5s;
+}
+
+.nav-link:hover {
+    color: #febd2f;
+    transform: translateY(-5px);
+    position: relative;
+}
+
+.jumbotron {
+    background-image: url(../assets/Vektor.png);
+    background-position: center;
+    background-size: cover;
+}
