@@ -53,4 +53,10 @@
         </div>
     </div> 
     {{-- end about section  --}}
+
+    <div class="study">
+        <div class="container">
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magni, consectetur rerum. Nostrum recusandae, sequi doloribus voluptate cumque iure? Adipisci consequatur facilis tenetur dolorum obcaecati error optio ipsum, asperiores quas quasi doloribus, labore vel eos! Doloremque ipsa officia eos at saepe quas, harum porro ad consequatur odit laborum nam magni ex! Hic beatae et illum placeat sed magnam doloribus soluta ratione error atque distinctio consequatur dolor tempora odio doloremque ad pariatur vel eveniet officia porro excepturi, nulla nostrum provident eligendi? Eius iusto possimus qui, odit debitis eaque minima ea repudiandae sapiente maiores dolore ducimus. Dolores, blanditiis ab ducimus architecto assumenda deleniti doloribus enim rerum quia voluptatibus dicta sit ex at? Voluptatum blanditiis molestiae eum, voluptas deserunt labore et laborum, autem pariatur quas commodi id fuga sed dicta illum unde illo quaerat magni. Adipisci esse labore rerum, dicta doloremque at magni corrupti distinctio sapiente possimus, minus nihil accusamus, molestias quam beatae in ab nulla sunt eos iste culpa ullam iusto ratione! Dicta id cupiditate tempora repellat soluta in aut explicabo quidem reprehenderit pariatur corrupti exercitationem autem dolorum totam aliquid, dolorem ullam vero possimus quisquam laborum amet. Debitis mollitia soluta aliquid provident iste? Excepturi aspernatur amet quam consequatur sed quia inventore et ullam.</p>
+        </div>
+    </div>
 @endsection
